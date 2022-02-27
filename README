@@ -1,7 +1,23 @@
-dwm - dynamic window manager
-============================
-dwm is an extremely fast, small, and dynamic window manager for X.
+# dwm - pziq's fork
+---
 
+*dwm is an extremely fast, small, and dynamic window manager for X.*
+
+## Patches used in this fork
+
+- pertag
+- AlwaysCenter
+- HideVacant tags
+- UnderlineTags (to hide that annoying little box on tags)
+- xrdb (i cant look at same color every day nd im too lazy to rebuild)
+
+## Config changes
+
+- font used Bitstream NF
+- underline tags configs are all 0
+- mod key mapped  to super key
+- super+shift_end => exit out of x session
+- super+q ==> quit active window
 
 Requirements
 ------------
